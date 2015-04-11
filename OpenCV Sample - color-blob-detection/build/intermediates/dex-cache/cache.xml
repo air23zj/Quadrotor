@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bogdan\Dropbox\team quadrotor\Android App\Jian&apos;s update\OpenCV Sample - color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\OpenCV Sample - color-blob-detection\openCVLibrary249\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7931fc14831a80b4c503890efee9a9deca8f5127">
+        <dex dex="C:\Users\Bogdan\Dropbox\team quadrotor\Android App\Jian&apos;s update\OpenCV Sample - color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\pre-dexed\debug\classes-6b39a736994ba8be52e5e9827de492be85b828a4.jar" />
+    </item>
+
+</items>

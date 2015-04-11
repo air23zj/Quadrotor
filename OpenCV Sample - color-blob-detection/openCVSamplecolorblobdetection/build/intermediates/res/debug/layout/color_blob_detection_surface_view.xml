@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/color_blob_detection_activity_surface_view"
+        android:layout_width="427dp"
+        android:layout_height="match_parent" />
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="248dp"
+        android:layout_height="wrap_content"
+        android:numColumns="1" >
+    </GridView>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/icon" />
+
+</LinearLayout><!-- From: file:/C:/Users/Bogdan/Dropbox/team%20quadrotor/Android%20App/Jian's%20update/OpenCV%20Sample%20-%20color-blob-detection/openCVSamplecolorblobdetection/src/main/res/layout/color_blob_detection_surface_view.xml -->
